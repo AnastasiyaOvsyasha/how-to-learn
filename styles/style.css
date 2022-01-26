@@ -264,13 +264,6 @@ align-items: center;
   color: rgb(255, 255, 255);
 }
 
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
-
 .kaufman__triangle {
   background-image: url(../images/kaufman-triangle.svg);
   width: 877px;
