@@ -56,7 +56,7 @@ background-image: url(../images/logo_place_header.svg);
   bottom: 30px;
   font-size: 18px;
   line-height: 25px;
-  font-weight: normal
+  font-weight: normal;
 }
 
 .link {
@@ -102,7 +102,7 @@ background-image: url(../images/logo_place_header.svg);
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-  color:#2f80ed
+  color:#2f80ed;
 }
 
 .two-columns__main-text {
@@ -278,7 +278,7 @@ align-items: center;
   position: absolute;
   right: -210px;
   top: 0;
-  background-size: 877px 877px
+  background-size: 877px 877px;
 }
 
 .footer {
