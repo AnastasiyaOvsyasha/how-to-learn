@@ -59,8 +59,9 @@ background-image: url(../images/logo_place_header.svg);
   font-weight: normal;
 }
 
-.link {
+.header__link {
   color: #2f80ed;
+  text-decoration: none;
 }
 
 .header__main-illustration {
