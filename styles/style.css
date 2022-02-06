@@ -170,6 +170,28 @@
   padding: 0;
 }
 
+.video {
+  padding-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.video__iframes {
+  display: flex;
+  position: relative;
+  top: 50px;
+}
+
+.video__iframe {
+  width: 515px;
+  height: 316px;
+}
+
+.video__iframe:first-child {
+  margin-right: 20px;
+}
+
 .digits {
 	padding: 100px 0;
 	display: flex;
