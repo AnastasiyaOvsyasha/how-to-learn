@@ -4,18 +4,3 @@
   flex-direction: column;
   align-items: center;
 }
-
-.video__iframes {
-  display: flex;
-  position: relative;
-  top: 50px;
-}
-
-.video__iframe {
-  width: 515px;
-  height: 316px;
-}
-
-.video__iframe:first-child {
-  margin-right: 20px;
-}
